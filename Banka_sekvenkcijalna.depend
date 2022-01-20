@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642693692 source:c:\users\ideapad\desktop\faks\objektno_orijentisano_programiranje\priprema_za_projekat\banka_sekvenkcijalna\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije_nad_datotekom.h"
+
+1642696551 source:c:\users\ideapad\desktop\faks\objektno_orijentisano_programiranje\priprema_za_projekat\banka_sekvenkcijalna\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
+1642691583 c:\users\ideapad\desktop\faks\objektno_orijentisano_programiranje\priprema_za_projekat\banka_sekvenkcijalna\operacije_nad_datotekom.h
+	"definicija_struktura_podataka.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+
+1642665473 c:\users\ideapad\desktop\faks\objektno_orijentisano_programiranje\priprema_za_projekat\banka_sekvenkcijalna\definicija_struktura_podataka.h
+
